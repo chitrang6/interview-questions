@@ -18,3 +18,4 @@
 ## Core Embedded
 - [What is the difference between Von-neuman and Harvard Architecture ?] (https://www.quora.com/What-is-the-difference-between-the-Von-Neumann-architecture-and-the-Harvard-architecture)
 - [What is the significance of volatile keyword in c ?] (http://www.embedded.com/electronics-blogs/beginner-s-corner/4023801/Introduction-to-the-Volatile-Keyword)
+- [What is an embedded system ?] (https://www.quora.com/What-is-an-embedded-system)
