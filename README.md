@@ -3,6 +3,7 @@
 - [What is bit field in C ? What is the benefit of using it ?] (https://www.quora.com/C-programming-language-What-is-bit-field)
 - [What is structure padding ? How to avoid it ?] (http://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/)
 - [What is the size of void ?] (http://stackoverflow.com/questions/3350599/sizeofvoid-equals-1-in-c)
+- [What is Data alignment ?] (https://embeddeddreams.quora.com/Concept-What-is-Data-alignment)
 
 
 ## OS
