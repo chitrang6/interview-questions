@@ -10,13 +10,19 @@
 - [What is the difference between Thread and Process ?] (https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
 - [Differentiate between mutexes vs semaphores.] (https://www.quora.com/What-is-the-difference-between-a-mutex-and-a-semaphore)
 
+## RTOS
+- [What is a real-time operating system ?] (https://www.quora.com/What-is-a-real-time-operating-system)
+
+
 ## Networking
 - [What is the difference between TCP and UDP?] (https://www.quora.com/What-is-the-difference-between-TCP-and-UDP)
 - [Which protocol should be used in Video streaming ? TCP or UDP ?] (http://stackoverflow.com/questions/6187456/tcp-vs-udp-on-video-stream)
-
 
 
 ## Core Embedded
 - [What is the difference between Von-neuman and Harvard Architecture ?] (https://www.quora.com/What-is-the-difference-between-the-Von-Neumann-architecture-and-the-Harvard-architecture)
 - [What is the significance of volatile keyword in c ?] (http://www.embedded.com/electronics-blogs/beginner-s-corner/4023801/Introduction-to-the-Volatile-Keyword)
 - [What is an embedded system ?] (https://www.quora.com/What-is-an-embedded-system)
+- [What is a Firmware ?] (https://en.wikipedia.org/wiki/Firmware)
+- [What are device drivers?] (https://www.quora.com/What-are-device-drivers)
+- [What is the boot-loader and startup code in embedded system?] (https://www.quora.com/What-is-the-boot-loader-and-startup-code-in-embedded-system)
