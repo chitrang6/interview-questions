@@ -26,3 +26,7 @@
 - [What is a Firmware ?](https://en.wikipedia.org/wiki/Firmware)
 - [What are device drivers?](https://www.quora.com/What-are-device-drivers)
 - [What is the boot-loader and startup code in embedded system?](https://www.quora.com/What-is-the-boot-loader-and-startup-code-in-embedded-system)
+
+## Bus Protocols
+- [Difference between UART and RS-232?] (https://electronics.stackexchange.com/questions/110478/difference-between-uart-and-rs-232)
+- [SPI versus I2C protocols] (https://bitwizard.nl/wiki/SPI_versus_I2C_protocols)
